@@ -1,0 +1,6 @@
+{
+  "ricette": [
+    {"id": 1, "titolo": "Pasta al pomodoro"},
+    {"id": 2, "titolo": "Pizza Margherita"}
+  ]
+}
