@@ -1,6 +1,124 @@
 {
-  "ricette": [
-    {"id": 1, "titolo": "Pasta al pomodoro"},
-    {"id": 2, "titolo": "Pizza Margherita"}
+  "films": [
+    {
+      "titolo": "Inception",
+      "anno": 2010,
+      "genere": "Sci-Fi",
+      "descrizione": "Un ladro entra nei sogni altrui per impiantare un'idea nella mente di un bersaglio."
+    },
+    {
+      "titolo": "The Dark Knight",
+      "anno": 2008,
+      "genere": "Azione",
+      "descrizione": "Batman affronta il Joker, un criminale imprevedibile che vuole gettare Gotham nel caos."
+    },
+    {
+      "titolo": "Interstellar",
+      "anno": 2014,
+      "genere": "Sci-Fi",
+      "descrizione": "Un gruppo di astronauti attraversa un wormhole alla ricerca di un nuovo pianeta abitabile."
+    },
+    {
+      "titolo": "Pulp Fiction",
+      "anno": 1994,
+      "genere": "Crime",
+      "descrizione": "Storie intrecciate di criminali, pugili e gangster in un racconto non lineare."
+    },
+    {
+      "titolo": "Fight Club",
+      "anno": 1999,
+      "genere": "Drammatico",
+      "descrizione": "Un impiegato insoddisfatto fonda un club di combattimento clandestino che sfugge al controllo."
+    },
+    {
+      "titolo": "Forrest Gump",
+      "anno": 1994,
+      "genere": "Drammatico",
+      "descrizione": "La vita straordinaria di un uomo semplice che attraversa decenni di storia americana."
+    },
+    {
+      "titolo": "The Matrix",
+      "anno": 1999,
+      "genere": "Sci-Fi",
+      "descrizione": "Un hacker scopre che la realtà è una simulazione controllata da macchine."
+    },
+    {
+      "titolo": "The Lord of the Rings: The Fellowship of the Ring",
+      "anno": 2001,
+      "genere": "Fantasy",
+      "descrizione": "Un giovane hobbit inizia un viaggio per distruggere un anello dal potere oscuro."
+    },
+    {
+      "titolo": "The Lord of the Rings: The Two Towers",
+      "anno": 2002,
+      "genere": "Fantasy",
+      "descrizione": "La Compagnia si divide mentre la guerra contro Sauron si intensifica."
+    },
+    {
+      "titolo": "The Lord of the Rings: The Return of the King",
+      "anno": 2003,
+      "genere": "Fantasy",
+      "descrizione": "La battaglia finale per la Terra di Mezzo e il destino dell'Unico Anello."
+    },
+    {
+      "titolo": "Gladiator",
+      "anno": 2000,
+      "genere": "Storico",
+      "descrizione": "Un generale romano tradito diventa gladiatore per vendicare la sua famiglia."
+    },
+    {
+      "titolo": "Titanic",
+      "anno": 1997,
+      "genere": "Romantico",
+      "descrizione": "Una storia d'amore nasce a bordo del celebre transatlantico destinato al naufragio."
+    },
+    {
+      "titolo": "The Shawshank Redemption",
+      "anno": 1994,
+      "genere": "Drammatico",
+      "descrizione": "Un uomo innocente trova speranza e amicizia durante la sua lunga detenzione."
+    },
+    {
+      "titolo": "The Godfather",
+      "anno": 1972,
+      "genere": "Crime",
+      "descrizione": "La storia della famiglia Corleone e dell'ascesa di Michael nel mondo della mafia."
+    },
+    {
+      "titolo": "The Godfather Part II",
+      "anno": 1974,
+      "genere": "Crime",
+      "descrizione": "Il passato di Vito Corleone e il consolidamento del potere di Michael si intrecciano."
+    },
+    {
+      "titolo": "Avatar",
+      "anno": 2009,
+      "genere": "Sci-Fi",
+      "descrizione": "Un ex marine si unisce al popolo Na'vi su Pandora, diviso tra due mondi."
+    },
+    {
+      "titolo": "La La Land",
+      "anno": 2016,
+      "genere": "Musical",
+      "descrizione": "Una storia d'amore tra un'aspirante attrice e un musicista jazz a Los Angeles."
+    },
+    {
+      "titolo": "Whiplash",
+      "anno": 2014,
+      "genere": "Drammatico",
+      "descrizione": "Un giovane batterista affronta un insegnante spietato nel tentativo di diventare il migliore."
+    },
+    {
+      "titolo": "Parasite",
+      "anno": 2019,
+      "genere": "Thriller",
+      "descrizione": "Una famiglia povera si infiltra nella vita di una famiglia ricca con conseguenze imprevedibili."
+    },
+    {
+      "titolo": "Mad Max: Fury Road",
+      "anno": 2015,
+      "genere": "Azione",
+      "descrizione": "In un deserto post-apocalittico, Max e Furiosa fuggono da un tiranno in un inseguimento frenetico."
+    }
   ]
 }
