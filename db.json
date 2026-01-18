@@ -5,6 +5,9 @@
       "anno": 2010,
       "genere": "Sci-Fi",
       "descrizione": "Un ladro entra nei sogni altrui per impiantare un'idea nella mente di un bersaglio.",
+      "regia": "Christopher Nolan",
+      "sceneggiatura": "Christopher Nolan",
+      "attori": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page", "Tom Hardy"],
       "immagine": "https://image.tmdb.org/t/p/w500/7NCFUxQNExfxd0kmkTqIwd1cMol.jpg"
     },
     {
@@ -12,6 +15,9 @@
       "anno": 2008,
       "genere": "Azione",
       "descrizione": "Batman affronta il Joker, un criminale imprevedibile che vuole gettare Gotham nel caos.",
+      "regia": "Christopher Nolan",
+      "sceneggiatura": "Jonathan Nolan, Christopher Nolan",
+      "attori": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Gary Oldman"],
       "immagine": ""
     },
     {
@@ -19,6 +25,9 @@
       "anno": 2014,
       "genere": "Sci-Fi",
       "descrizione": "Un gruppo di astronauti attraversa un wormhole alla ricerca di un nuovo pianeta abitabile.",
+      "regia": "Christopher Nolan",
+      "sceneggiatura": "Jonathan Nolan, Christopher Nolan",
+      "attori": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain", "Michael Caine"],
       "immagine": "https://image.tmdb.org/t/p/w500/9rSeLJx4k1TaIUlPa4gwZK6tBxl.jpg"
     },
     {
@@ -26,6 +35,9 @@
       "anno": 1994,
       "genere": "Crime",
       "descrizione": "Storie intrecciate di criminali, pugili e gangster in un racconto non lineare.",
+      "regia": "Quentin Tarantino",
+      "sceneggiatura": "Quentin Tarantino, Roger Avary",
+      "attori": ["John Travolta", "Samuel L. Jackson", "Uma Thurman", "Bruce Willis"],
       "immagine": ""
     },
     {
@@ -33,6 +45,9 @@
       "anno": 1999,
       "genere": "Drammatico",
       "descrizione": "Un impiegato insoddisfatto fonda un club di combattimento clandestino che sfugge al controllo.",
+      "regia": "David Fincher",
+      "sceneggiatura": "Jim Uhls",
+      "attori": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
       "immagine": ""
     },
     {
@@ -40,6 +55,9 @@
       "anno": 1994,
       "genere": "Drammatico",
       "descrizione": "La vita straordinaria di un uomo semplice che attraversa decenni di storia americana.",
+      "regia": "Robert Zemeckis",
+      "sceneggiatura": "Eric Roth",
+      "attori": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
       "immagine": ""
     },
     {
@@ -47,6 +65,9 @@
       "anno": 1999,
       "genere": "Sci-Fi",
       "descrizione": "Un hacker scopre che la realtà è una simulazione controllata da macchine.",
+      "regia": "Lana Wachowski, Lilly Wachowski",
+      "sceneggiatura": "Lana Wachowski, Lilly Wachowski",
+      "attori": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
       "immagine": ""
     },
     {
@@ -54,6 +75,9 @@
       "anno": 2001,
       "genere": "Fantasy",
       "descrizione": "Un giovane hobbit inizia un viaggio per distruggere un anello dal potere oscuro.",
+      "regia": "Peter Jackson",
+      "sceneggiatura": "Fran Walsh, Philippa Boyens, Peter Jackson",
+      "attori": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen", "Orlando Bloom"],
       "immagine": ""
     },
     {
@@ -61,6 +85,9 @@
       "anno": 2002,
       "genere": "Fantasy",
       "descrizione": "La Compagnia si divide mentre la guerra contro Sauron si intensifica.",
+      "regia": "Peter Jackson",
+      "sceneggiatura": "Fran Walsh, Philippa Boyens, Stephen Sinclair, Peter Jackson",
+      "attori": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen", "Orlando Bloom"],
       "immagine": ""
     },
     {
@@ -68,6 +95,9 @@
       "anno": 2003,
       "genere": "Fantasy",
       "descrizione": "La battaglia finale per la Terra di Mezzo e il destino dell'Unico Anello.",
+      "regia": "Peter Jackson",
+      "sceneggiatura": "Fran Walsh, Philippa Boyens, Peter Jackson",
+      "attori": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
       "immagine": ""
     },
     {
@@ -75,6 +105,9 @@
       "anno": 2000,
       "genere": "Storico",
       "descrizione": "Un generale romano tradito diventa gladiatore per vendicare la sua famiglia.",
+      "regia": "Ridley Scott",
+      "sceneggiatura": "David Franzoni, John Logan, William Nicholson",
+      "attori": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
       "immagine": ""
     },
     {
@@ -82,6 +115,9 @@
       "anno": 1997,
       "genere": "Romantico",
       "descrizione": "Una storia d'amore nasce a bordo del celebre transatlantico destinato al naufragio.",
+      "regia": "James Cameron",
+      "sceneggiatura": "James Cameron",
+      "attori": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
       "immagine": ""
     },
     {
@@ -89,13 +125,19 @@
       "anno": 1994,
       "genere": "Drammatico",
       "descrizione": "Un uomo innocente trova speranza e amicizia durante la sua lunga detenzione.",
+      "regia": "Frank Darabont",
+      "sceneggiatura": "Frank Darabont",
+      "attori": ["Tim Robbins", "Morgan Freeman"],
       "immagine": ""
     },
     {
       "titolo": "The Godfather",
-      "anno": 1972,
+      "anno": 1972",
       "genere": "Crime",
       "descrizione": "La storia della famiglia Corleone e dell'ascesa di Michael nel mondo della mafia.",
+      "regia": "Francis Ford Coppola",
+      "sceneggiatura": "Mario Puzo, Francis Ford Coppola",
+      "attori": ["Marlon Brando", "Al Pacino", "James Caan"],
       "immagine": ""
     },
     {
@@ -103,6 +145,9 @@
       "anno": 1974,
       "genere": "Crime",
       "descrizione": "Il passato di Vito Corleone e il consolidamento del potere di Michael si intrecciano.",
+      "regia": "Francis Ford Coppola",
+      "sceneggiatura": "Mario Puzo, Francis Ford Coppola",
+      "attori": ["Al Pacino", "Robert De Niro", "Robert Duvall"],
       "immagine": ""
     },
     {
@@ -110,6 +155,9 @@
       "anno": 2009,
       "genere": "Sci-Fi",
       "descrizione": "Un ex marine si unisce al popolo Na'vi su Pandora, diviso tra due mondi.",
+      "regia": "James Cameron",
+      "sceneggiatura": "James Cameron",
+      "attori": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
       "immagine": ""
     },
     {
@@ -117,6 +165,9 @@
       "anno": 2016,
       "genere": "Musical",
       "descrizione": "Una storia d'amore tra un'aspirante attrice e un musicista jazz a Los Angeles.",
+      "regia": "Damien Chazelle",
+      "sceneggiatura": "Damien Chazelle",
+      "attori": ["Ryan Gosling", "Emma Stone"],
       "immagine": ""
     },
     {
@@ -124,6 +175,9 @@
       "anno": 2014,
       "genere": "Drammatico",
       "descrizione": "Un giovane batterista affronta un insegnante spietato nel tentativo di diventare il migliore.",
+      "regia": "Damien Chazelle",
+      "sceneggiatura": "Damien Chazelle",
+      "attori": ["Miles Teller", "J.K. Simmons"],
       "immagine": ""
     },
     {
@@ -131,6 +185,9 @@
       "anno": 2019,
       "genere": "Thriller",
       "descrizione": "Una famiglia povera si infiltra nella vita di una famiglia ricca con conseguenze imprevedibili.",
+      "regia": "Bong Joon-ho",
+      "sceneggiatura": "Bong Joon-ho, Han Jin-won",
+      "attori": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
       "immagine": ""
     },
     {
@@ -138,6 +195,9 @@
       "anno": 2015,
       "genere": "Azione",
       "descrizione": "In un deserto post-apocalittico, Max e Furiosa fuggono da un tiranno in un inseguimento frenetico.",
+      "regia": "George Miller",
+      "sceneggiatura": "George Miller, Brendan McCarthy, Nico Lathouris",
+      "attori": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
       "immagine": ""
     }
   ]
